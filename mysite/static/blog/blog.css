@@ -1,0 +1,27 @@
+h1  {
+    color: #FCA205;
+    font-family: 'Lobster';
+}
+
+h1 a {
+    color: #FCA205;
+    font-family: 'Lobster';
+}
+
+a:link {
+	text-decoration: underline;
+}
+
+a:hover {
+	text-decoration: underline;
+	color:#ea4307;
+}
+
+li a {
+    color: white;
+}
+
+body {
+    //background: white url("/static/polls/images/timg.jpeg") no-repeat;/
+    padding-left: 15px;
+}
